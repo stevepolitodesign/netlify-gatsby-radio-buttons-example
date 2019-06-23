@@ -10,12 +10,11 @@ const FormCorrect = () => (
       data-netlify-honeypot="bot-field"
       action="/thank-you"
     >
-      <input type="hidden" name="form-name" value="contact" />
+      <input type="hidden" name="form-name" value="incorrect-example" />
       <fieldset>
         <legend>T-Shirt Size</legend>
         <label>
-          <input type="radio" name="size" id="small" value="small" required />{" "}
-          Small
+          <input type="radio" name="size" id="small" value="small" required /> Small
         </label>
         <label>
           <input type="radio" name="size" id="medium" value="medium" /> Medium
