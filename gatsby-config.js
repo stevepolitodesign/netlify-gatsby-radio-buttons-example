@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Netlify-Gatsby Radio Buttons Example`,
-    description: `Learn How To Correctly Format Radio Buttons In Using Netlify and Gatsby`,
+    description: `Learn How To Correctly Format Radio Buttons Using Netlify and Gatsby`,
     author: `@gatsbyjs`,
   },
   plugins: [
